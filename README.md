@@ -21,8 +21,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vazbaumax/profile-card-component-main)
-- Live Site URL: [Add live site URL here](https://vazbaumax.github.io/profile-card-component-main/)
+- Solution URL: [https://github.com/vazbaumax/profile-card-component-main](https://github.com/vazbaumax/profile-card-component-main)
+- Live Site URL: [https://vazbaumax.github.io/profile-card-component-main/](https://vazbaumax.github.io/profile-card-component-main/)
 
 ### Built with
 
@@ -32,6 +32,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Add your name here](https://veradventours.com.mx)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vazbaumax)
-- Twitter - [@yourusername](https://www.twitter.com/maxvazquezb)
+- Website - [Max Vázquez Bautista](https://veradventours.com.mx)
+- Frontend Mentor - [@vazbaumax](https://www.frontendmentor.io/profile/vazbaumax)
+- Twitter - [@maxvazquezb](https://www.twitter.com/maxvazquezb)
