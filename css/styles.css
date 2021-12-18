@@ -6,7 +6,7 @@ body {
   width: 100%;
   max-width: 1440px;
   background-color: hsl(185, 75%, 39%);
-  background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+  background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: right 50vw bottom 50vh, left 50vw top 50vh;
 }
@@ -46,7 +46,7 @@ body {
 }
 
 .card-header {
-  background-image: url(images/bg-pattern-card.svg);
+  background-image: url(../images/bg-pattern-card.svg);
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
   width: 100%;
