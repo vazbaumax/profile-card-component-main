@@ -27,7 +27,7 @@ body {
   width: 720px;
 }
 
-.wrapper {
+article {
   display: flex;
   justify-content: center;
   height: 97vh;
