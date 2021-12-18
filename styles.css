@@ -34,7 +34,7 @@ article {
   align-items: center;
 }
 
-.card {
+section {
   font-family: 'Kumbh Sans';
   width: 100vh;
   max-width: 350px;
@@ -45,7 +45,7 @@ article {
   -moz-box-shadow: 6px 6px 20px -5px rgba(161,157,157,0.5);
 }
 
-.card-header {
+header {
   background-image: url(images/bg-pattern-card.svg);
   border-top-left-radius: 25px;
   border-top-right-radius: 25px;
@@ -62,7 +62,7 @@ article {
   position: absolute;
 }
 
-.card-body {
+main {
   height: 15vh;
 }
 
@@ -90,7 +90,7 @@ margin: 15px;
 color: hsl(185, 75%, 39%);
 }
 
-.card-footer {
+footer {
   border-top: 1px solid hsl(185, 75%, 39%);
   display: flex;
   justify-content: space-between;
@@ -99,7 +99,7 @@ color: hsl(185, 75%, 39%);
   padding: 50px;
 }
 
-.card-footer p {
+footer p {
   text-align: center;
   font-weight: 700;
   font-size: larger;
