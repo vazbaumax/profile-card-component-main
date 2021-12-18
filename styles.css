@@ -8,18 +8,20 @@ body {
   background-color: hsl(185, 75%, 39%);
 }
 
-.pattern-top {
+.background {
   position: absolute;
+  height: 100%;
   z-index: -1;
-  top: -80%;
-  left: -20%
+  display: flex;
 }
 
-.patter-bottom {
-  position: absolute;
-  z-index: -2;
-  bottom: -90%;
-  right: -20%;
+.pattern-top {
+  width: 720px;
+  margin-top: -20%;
+}
+
+.pattern-bottom {
+  width: 720px;
 }
 
 .wrapper {
