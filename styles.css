@@ -1,0 +1,108 @@
+/* Profile Card CSS Style */
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+body {
+  width: 100%;
+  max-width: 1440px;
+  background-color: hsl(185, 75%, 39%);
+}
+
+.pattern-top {
+  position: absolute;
+  z-index: -1;
+  top: -80%;
+  left: -20%
+}
+
+.patter-bottom {
+  position: absolute;
+  z-index: -2;
+  bottom: -90%;
+  right: -20%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  height: 97vh;
+  align-items: center;
+}
+
+.card {
+  font-family: 'Kumbh Sans';
+  width: 100vh;
+  max-width: 350px;
+  border-radius: 25px;
+  background-color: white;
+  box-shadow: 6px 6px 20px -5px rgba(161,157,157,0.5);
+  -webkit-box-shadow: 6px 6px 20px -5px rgba(161,157,157,0.5);
+  -moz-box-shadow: 6px 6px 20px -5px rgba(161,157,157,0.5);
+}
+
+.card-header {
+  background-image: url(images/bg-pattern-card.svg);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  width: 100%;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+  border: 6px solid #fff;
+  border-radius: 50%;
+  margin-top: 65px;
+  position: absolute;
+}
+
+.card-body {
+  height: 90px;
+}
+
+.name-age {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.person-age {
+  color: hsl(185, 75%, 39%);
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 15px;
+}
+
+.card-text {
+text-align: center;
+margin: 15px;
+color: hsl(185, 75%, 39%);
+}
+
+.card-footer {
+  border-top: 1px solid hsl(185, 75%, 39%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  padding: 50px;
+}
+
+.card-footer p {
+  text-align: center;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.slim-text {
+  font-size: small;
+  font-weight: 400;
+  color: hsl(185, 75%, 39%);
+}
+
